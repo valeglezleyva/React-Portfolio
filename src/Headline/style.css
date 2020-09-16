@@ -1,0 +1,8 @@
+.headline {
+    text-align: center;
+    background-color: purple;
+    color: #eeeeee;
+    border-style: dotted;
+    border-color: yellow;
+    padding: 20px;
+}
